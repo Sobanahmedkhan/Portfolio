@@ -230,7 +230,7 @@ export default function BeamsBackground({ className, intensity = "strong" }: Ani
                     <a href="mailto:SobanAhmed@gmail.com" target="_blank" className="w-12 h-12 bg-white text-black rounded-full flex items-center justify-center cursor-pointer hover:text-white hover:bg-black">
                         <Mail className="w-5" />
                     </a>
-                    <a href="tel:+923269392506" target="_blank" className="w-12 h-12 bg-white text-black rounded-full flex items-center justify-center cursor-pointer hover:text-white hover:bg-black">
+                    <a href="tel:+923180239032" target="_blank" className="w-12 h-12 bg-white text-black rounded-full flex items-center justify-center cursor-pointer hover:text-white hover:bg-black">
                         <Phone className="w-5" />
                     </a>
                 </div>
